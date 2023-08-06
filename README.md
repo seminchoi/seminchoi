@@ -1,8 +1,8 @@
-###
-----
+---
 자바 스프링 백엔드 개발자입니다.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seminchoi&show_icons=true&theme=algolia)
+---
+[![Semin's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=choicco)](https://solved.ac/profile/choicco)
+![Semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seminchoi&show_icons=true&theme=algolia)
 
 ### Recent Project
 | 프로젝트 명                       | 기간              | 한 줄 소개                       | 사용 기술 |
