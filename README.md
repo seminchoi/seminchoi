@@ -7,6 +7,7 @@
 ### Recent Project
 | 프로젝트 명                       | 기간              | 한 줄 소개                       | 사용 기술 |
 |--------------------------------|------------------|--------------------------------|---------|
+|[스포티파이 클론](https://github.com/seminchoi/woowa-ticketing) | 2024-08 | 기술학습을 위한 스포티파이 클론 프로젝트 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 |[스포티파이 클론](https://github.com/seminchoi/msa-spotify-clone) | 2024-03 ~ 2024-04 | 기술학습을 위한 스포티파이 클론 프로젝트 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 |[모이자](https://github.com/impactcampus-moija/moija) | 2023-10 ~ 2024-01 | 자립 준비 쳥년을 위한 정책 추천, 멘토 매칭 서비스 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 |[직촌](https://github.com/SMU-LIKELION-JIKCHON/jikchon-back)  | 2023-07 ~ 2023-08 | 디지털 소외 계층을 위한 간편한 지역 쇼핑몰 | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  | 
