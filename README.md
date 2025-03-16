@@ -7,9 +7,9 @@
 ### Recent Project
 | 프로젝트 명                       | 기간              | 한 줄 소개                       | 비고 |
 |--------------------------------|------------------|--------------------------------|---------|
-|[우아한 티켓팅](https://github.com/seminchoi/woowa-ticketing) | 2024-08 | 기존 티켓팅의 불편함을 해소한 티켓팅 서비스 | -
-|[모이자](https://github.com/impactcampus-moija/moija) | 2023-10 ~ 2024-01 | 자립 준비 쳥년을 위한 정책 추천, 멘토 매칭 서비스 | 임팩트 캠퍼스 공모전 우수상
-|[상명내비](https://github.com/SMU-GradPoodle/SMU-Navi-back) | 2023-02 ~ 2023-07 | 상명대학교 통학로 교통 정보/이슈 알림| -
+|[우아한 티켓팅](https://github.com/seminchoi/woowa-ticketing) | 2024-08 (3주)| 기존 티켓팅의 불편함을 해소한 티켓팅 서비스 | -
+|[모이자](https://github.com/impactcampus-moija/moija) | 2023-10 ~ 2023-12 (3개월) | 자립 준비 쳥년을 위한 정책 추천, 멘토 매칭 서비스 | 임팩트 캠퍼스 공모전 우수상
+|[상명내비](https://github.com/SMU-GradPoodle/SMU-Navi-back) | 2023-02 ~ 2023-07 (6개월) | 상명대학교 통학로 교통 정보/이슈 알림| -
 
 
 
