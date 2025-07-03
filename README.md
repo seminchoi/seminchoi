@@ -7,7 +7,7 @@
 ### Recent Project
 | 프로젝트 명                       | 기간              | 한 줄 소개                       | 비고 |
 |--------------------------------|------------------|--------------------------------|---------|
-|[MSA Ecommerce](https://github.com/seminchoi/msa-ecommerce) | 2025-03 ~ (진행중) | 비동기 이벤트 기반 MSA Ecommerce | - 
+|[MSA Ecommerce](https://github.com/seminchoi/msa-ecommerce) | 2025-04 ~ 2025-05 | EDA MSA Ecommerce | - 
 |[Docker Canvas](https://github.com/docker-canvas/docker-canvas) | 2025-04 | Docker Swarm 네트워크 분석 및 시각화 | -
 |[우아한 티켓팅](https://github.com/seminchoi/woowa-ticketing) | 2024-08 | 기존 티켓팅의 불편함을 해소한 티켓팅 서비스 | -
 |[모이자](https://github.com/impactcampus-moija/moija) | 2023-10 ~ 2023-12 (3개월) | 자립 준비 쳥년을 위한 정책 추천, 멘토 매칭 서비스 | 임팩트 캠퍼스 공모전 우수상
