@@ -1,17 +1,13 @@
----
-자바 스프링 백엔드 개발자입니다.
----
-[![Semin's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=choicco)](https://solved.ac/profile/choicco)
-![Semin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seminchoi&show_icons=true&theme=algolia)
 
-### Recent Project
-| 프로젝트 명                       | 기간              | 한 줄 소개                       | 비고 |
-|--------------------------------|------------------|--------------------------------|---------|
-|[MSA Ecommerce](https://github.com/seminchoi/msa-ecommerce) | 2025-04 ~ 2025-05 | EDA MSA Ecommerce | - 
-|[Docker Canvas](https://github.com/docker-canvas/docker-canvas) | 2025-04 | Docker Swarm 네트워크 분석 및 시각화 | -
-|[우아한 티켓팅](https://github.com/seminchoi/woowa-ticketing) | 2024-08 | 기존 티켓팅의 불편함을 해소한 티켓팅 서비스 | -
-|[모이자](https://github.com/impactcampus-moija/moija) | 2023-10 ~ 2023-12 (3개월) | 자립 준비 쳥년을 위한 정책 추천, 멘토 매칭 서비스 | 임팩트 캠퍼스 공모전 우수상
-|[상명내비](https://github.com/SMU-GradPoodle/SMU-Navi-back) | 2023-02 ~ 2023-07 (6개월) | 상명대학교 통학로 교통 정보/이슈 알림| -
+## Semin Choi
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- 우아한테크캠프 7기 (2024.06 ~ 2024.08)
+- 멋쟁이사자처림대학 10기, 11기 (2022.03 ~ 2023.11)
+
 
 
 
